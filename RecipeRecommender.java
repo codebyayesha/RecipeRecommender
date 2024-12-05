@@ -8,7 +8,7 @@ import org.json.JSONObject;
 
 public class RecipeRecommender extends JFrame {
 
-    private static final String API_KEY = "2a1cbe19396c4db7aac7c7d56460e47e"; // Replace with your API key
+    private static final String API_KEY = "YOUR_API_KEY"; // Replace with your API key
 
     private JTextField usernameField, searchField;
     private JPasswordField passwordField;
