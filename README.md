@@ -1,1 +1,2 @@
 # RecipeRecommender
+The Recipe Recommender Application is a desktop-based solution designed to address the challenge of finding meal recipes based on available ingredients. By integrating with the Spoonacular API, the application allows users to search for recipes, view detailed instructions, and save their favorites for future reference. This solution is particularly helpful for individuals who want to reduce food waste, try new recipes, or optimize their meal preparation based on ingredients they already have.
